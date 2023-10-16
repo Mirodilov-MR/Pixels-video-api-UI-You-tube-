@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/layout_fragment_subscriptions.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/layout/fragment_subscriptions.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_okean.jpg.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/okean.jpg"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/layout_videos.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/layout/videos.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_shorts.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/shorts.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_share.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/share.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/layout_fragment_search.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_plus.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/plus.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_icons.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/icons.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ytp.pixe.app-main-60:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_add.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/add.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_profile.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/profile.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_man.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/man.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_screen.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/screen.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/layout_video_viewer.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/layout/video_viewer.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_youtube_main_icon.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/youtube_main_icon.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/layout_app_bar.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/layout/app_bar.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_home.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/home.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_back.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/back.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.ytp.pixe.app-main-60:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/layout_item_load_state.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/layout/item_load_state.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_coming.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/coming.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ytp.pixe.app-main-60:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_mic.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/mic.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/menu_bottom_home_menu.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/menu/bottom_home_menu.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_dislike_black.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/dislike_black.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_category_bg.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/category_bg.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_bell.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/bell.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/navigation_home_nav_graph.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/navigation/home_nav_graph.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_search.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/search.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_language_raunded.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/language_raunded.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.ytp.pixe.app-main-60:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/layout_activity_main.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/layout_collections.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/layout/collections.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/xml_backup_rules.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ytp.pixe.app-main-60:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.ytp.pixe.app-main-60:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.ytp.pixe.app-main-60:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_like_black.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/like_black.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_rounded_edittext_bg.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/rounded_edittext_bg.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/layout_item_video.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/layout/item_video.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.ytp.pixe.app-main-60:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/layout_category_item.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/layout/category_item.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_clip.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/clip.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.ytp.pixe.app-main-60:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_download.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/download.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_ic_broken_image.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/ic_broken_image.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_like.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/like.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_m.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/m.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_dislike.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/dislike.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/layout_fragment_shorts.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/layout/fragment_shorts.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_subscribe.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/subscribe.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/layout_fragment_test.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/layout/fragment_test.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_more.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/more.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_group.png.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/group.png"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/drawable_ic_back.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/xml_data_extraction_rules.xml.flat",
+        "source": "com.ytp.pixe.app-main-60:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-merged_res-58:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.ytp.pixe.app-main-60:/mipmap-hdpi/ic_launcher.webp"
+    }
+]

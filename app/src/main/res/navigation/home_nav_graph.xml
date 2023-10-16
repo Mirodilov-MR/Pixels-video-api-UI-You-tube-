@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/home_nav_graph"
+    app:startDestination="@id/videos">
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="com.ytp.pixe.screens.search.SearchFragment"
+        android:label="Search"
+        tools:layout="@layout/fragment_search">
+        <action
+            android:id="@+id/action_searchFragment_to_videoViewer"
+            app:destination="@id/videoViewer" />
+    </fragment>
+    <fragment
+        android:id="@+id/videos"
+        android:name="com.ytp.pixe.screens.videos.Videos"
+        android:label="Videos"
+        tools:layout="@layout/videos">
+        <action
+            android:id="@+id/action_videos_to_videoViewer"
+            app:destination="@id/videoViewer"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:popEnterAnim="@android:anim/slide_in_left" />
+        <action
+            android:id="@+id/action_videos_to_searchFragment"
+            app:destination="@id/searchFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/collections"
+        android:name="com.ytp.pixe.screens.collections.Collections"
+        android:label="Collections"
+        tools:layout="@layout/collections">
+        <action
+            android:id="@+id/action_collections_to_searchFragment"
+            app:destination="@id/searchFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/videoViewer"
+        android:name="com.ytp.pixe.screens.video_viewer.VideoViewer"
+        android:label="VideoViewer"
+        tools:layout="@layout/video_viewer"/>
+    <fragment
+        android:id="@+id/shorts"
+        android:name="com.ytp.pixe.screens.shorts.ShortsFragment"
+        android:label="fragment_shorts"
+        tools:layout="@layout/fragment_shorts" />
+    <fragment
+        android:id="@+id/Subscriptions"
+        android:name="com.ytp.pixe.screens.subscriptions.SubscriptionsFragment"
+        android:label="fragment_subscriptions"
+        tools:layout="@layout/fragment_subscriptions" />
+</navigation>

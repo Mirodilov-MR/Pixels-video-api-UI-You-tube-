@@ -1,0 +1,118 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.M7YoutubeUI"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:5:5-78
+11-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:6:5-66
+12-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:6:22-64
+13
+14    <permission
+14-->[androidx.core:core:1.9.0] C:\Users\lordm\.gradle\caches\transforms-3\392c27daf27256663997ba2f280b412d\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+15        android:name="com.M7YoutubeUI.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+15-->[androidx.core:core:1.9.0] C:\Users\lordm\.gradle\caches\transforms-3\392c27daf27256663997ba2f280b412d\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+16        android:protectionLevel="signature" />
+16-->[androidx.core:core:1.9.0] C:\Users\lordm\.gradle\caches\transforms-3\392c27daf27256663997ba2f280b412d\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+17
+18    <uses-permission android:name="com.M7YoutubeUI.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+18-->[androidx.core:core:1.9.0] C:\Users\lordm\.gradle\caches\transforms-3\392c27daf27256663997ba2f280b412d\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+18-->[androidx.core:core:1.9.0] C:\Users\lordm\.gradle\caches\transforms-3\392c27daf27256663997ba2f280b412d\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+19
+20    <application
+20-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:8:5-38:19
+21        android:name="com.ytp.pixe.M7YoutubeUI"
+21-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:10:9-36
+22        android:allowBackup="true"
+22-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:9:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.9.0] C:\Users\lordm\.gradle\caches\transforms-3\392c27daf27256663997ba2f280b412d\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+24        android:dataExtractionRules="@xml/data_extraction_rules"
+24-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:11:9-65
+25        android:debuggable="true"
+26        android:extractNativeLibs="false"
+27        android:fullBackupContent="@xml/backup_rules"
+27-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:12:9-54
+28        android:icon="@mipmap/ic_launcher"
+28-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:13:9-43
+29        android:label="@string/app_name"
+29-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:14:9-41
+30        android:roundIcon="@mipmap/ic_launcher_round"
+30-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:15:9-54
+31        android:supportsRtl="true"
+31-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:16:9-35
+32        android:theme="@style/Theme.Pixe" >
+32-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:17:9-42
+33        <activity
+33-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:19:9-34:20
+34            android:name="com.ytp.pixe.MainActivity"
+34-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:20:13-41
+35            android:exported="true"
+35-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:22:13-36
+36            android:screenOrientation="locked" >
+36-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:21:13-47
+37            <intent-filter>
+37-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:23:13-27:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:24:17-69
+38-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:24:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:26:17-77
+40-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:26:27-74
+41            </intent-filter>
+42
+43            <meta-data
+43-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:29:13-31:36
+44                android:name="android.app.lib_name"
+44-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:30:17-52
+45                android:value="" />
+45-->D:\M7YoutubeUI\app\src\main\AndroidManifest.xml:31:17-33
+46        </activity>
+47
+48        <uses-library
+48-->[androidx.window:window:1.0.0] C:\Users\lordm\.gradle\caches\transforms-3\6ba41ea04911136e2297716019675db5\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+49            android:name="androidx.window.extensions"
+49-->[androidx.window:window:1.0.0] C:\Users\lordm\.gradle\caches\transforms-3\6ba41ea04911136e2297716019675db5\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+50            android:required="false" />
+50-->[androidx.window:window:1.0.0] C:\Users\lordm\.gradle\caches\transforms-3\6ba41ea04911136e2297716019675db5\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+51        <uses-library
+51-->[androidx.window:window:1.0.0] C:\Users\lordm\.gradle\caches\transforms-3\6ba41ea04911136e2297716019675db5\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+52            android:name="androidx.window.sidecar"
+52-->[androidx.window:window:1.0.0] C:\Users\lordm\.gradle\caches\transforms-3\6ba41ea04911136e2297716019675db5\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+53            android:required="false" />
+53-->[androidx.window:window:1.0.0] C:\Users\lordm\.gradle\caches\transforms-3\6ba41ea04911136e2297716019675db5\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+54
+55        <provider
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lordm\.gradle\caches\transforms-3\33a0cfd47bef3c6f5af992c4712132ec\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+56            android:name="androidx.startup.InitializationProvider"
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lordm\.gradle\caches\transforms-3\33a0cfd47bef3c6f5af992c4712132ec\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+57            android:authorities="com.M7YoutubeUI.androidx-startup"
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lordm\.gradle\caches\transforms-3\33a0cfd47bef3c6f5af992c4712132ec\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+58            android:exported="false" >
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lordm\.gradle\caches\transforms-3\33a0cfd47bef3c6f5af992c4712132ec\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+59            <meta-data
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lordm\.gradle\caches\transforms-3\33a0cfd47bef3c6f5af992c4712132ec\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+60                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lordm\.gradle\caches\transforms-3\33a0cfd47bef3c6f5af992c4712132ec\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+61                android:value="androidx.startup" />
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lordm\.gradle\caches\transforms-3\33a0cfd47bef3c6f5af992c4712132ec\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+62            <meta-data
+62-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\lordm\.gradle\caches\transforms-3\bc532885bec9533ebca7cb95a8f37e6d\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+63                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+63-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\lordm\.gradle\caches\transforms-3\bc532885bec9533ebca7cb95a8f37e6d\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+64                android:value="androidx.startup" />
+64-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\lordm\.gradle\caches\transforms-3\bc532885bec9533ebca7cb95a8f37e6d\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+65        </provider>
+66    </application>
+67
+68</manifest>

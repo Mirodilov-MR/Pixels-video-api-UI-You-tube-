@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category_all">Hammasi</string>
+    <string name="category_funny">Qiziqarli videolar</string>
+    <string name="category_game">Oyin</string>
+    <string name="category_movie">Film</string>
+    <string name="category_music">Musiqa</string>
+    <string name="category_programming">Dasturlash</string>
+    <string name="category_sports">Sport</string>
+    <string name="category_trailer">Treyler</string>
+    <string name="category_tvShows">TV-shoular</string>
+    <string name="home">Asosiy</string>
+    <string name="library">Kutubxona</string>
+    <string name="subscriptions">Obunalar</string>
+</resources>

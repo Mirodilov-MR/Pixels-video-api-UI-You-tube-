@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.ytp.pixe.app-mergeDebugResources-57:/layout/collections.xml",
+        "source": "com.ytp.pixe.app-main-60:/layout/collections.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-mergeDebugResources-57:/layout/videos.xml",
+        "source": "com.ytp.pixe.app-main-60:/layout/videos.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-mergeDebugResources-57:/layout/activity_main.xml",
+        "source": "com.ytp.pixe.app-main-60:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-mergeDebugResources-57:/layout/fragment_search.xml",
+        "source": "com.ytp.pixe.app-main-60:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-mergeDebugResources-57:/layout/category_item.xml",
+        "source": "com.ytp.pixe.app-main-60:/layout/category_item.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-mergeDebugResources-57:/layout/app_bar.xml",
+        "source": "com.ytp.pixe.app-main-60:/layout/app_bar.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-mergeDebugResources-57:/layout/item_video.xml",
+        "source": "com.ytp.pixe.app-main-60:/layout/item_video.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-mergeDebugResources-57:/layout/item_load_state.xml",
+        "source": "com.ytp.pixe.app-main-60:/layout/item_load_state.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-mergeDebugResources-57:/layout/fragment_shorts.xml",
+        "source": "com.ytp.pixe.app-main-60:/layout/fragment_shorts.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-mergeDebugResources-57:/layout/video_viewer.xml",
+        "source": "com.ytp.pixe.app-main-60:/layout/video_viewer.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-mergeDebugResources-57:/layout/fragment_test.xml",
+        "source": "com.ytp.pixe.app-main-60:/layout/fragment_test.xml"
+    },
+    {
+        "merged": "com.ytp.pixe.app-mergeDebugResources-57:/layout/fragment_subscriptions.xml",
+        "source": "com.ytp.pixe.app-main-60:/layout/fragment_subscriptions.xml"
+    }
+]

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">M7YoutubeUI</string>
+    <string name="info_app_bar_videos" translatable="false">Search Videos</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="shorts" translatable="false">Shorts</string>
+    <string name="subscriptions">Subscriptions</string>
+    <string name="library">Library</string>
+    <string name="category_all">All</string>
+    <string name="category_game">Game</string>
+    <string name="category_music">Music</string>
+    <string name="category_movie">Movie</string>
+    <string name="category_sports">Sports</string>
+    <string name="category_funny">Funny</string>
+    <string name="category_tvShows">Tv Shows</string>
+    <string name="category_trailer">Trailer</string>
+    <string name="category_programming">Programming</string>
+</resources>

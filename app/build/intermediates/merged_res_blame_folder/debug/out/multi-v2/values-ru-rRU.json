@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ytp.pixe.app-mergeDebugResources-56:/values-ru-rRU/values-ru-rRU.xml",
+            "map": [
+                {
+                    "source": "D:\\M7YoutubeUI\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
+                    "from": {
+                        "startLines": "2,10,6,8,7,13,9,12,11,3,5,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,445,245,344,293,604,394,550,496,103,197,145",
+                        "endColumns": "44,49,46,48,49,65,49,52,52,40,46,50",
+                        "endOffsets": "97,490,287,388,338,665,439,598,544,139,239,191"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,150,197,246,296,362,412,465,518,559,606",
+                        "endColumns": "44,49,46,48,49,65,49,52,52,40,46,50",
+                        "endOffsets": "95,145,192,241,291,357,407,460,513,554,601,652"
+                    }
+                }
+            ]
+        }
+    ]
+}
